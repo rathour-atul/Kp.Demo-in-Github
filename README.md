@@ -1,2 +1,3 @@
-Atul-demo
-This is my first Git Repository.
+TO-DO-LIST PROJECT
+HTML,CSS,JS
+
